@@ -1,2 +1,2 @@
-# javascript-
+# js_advanced_programming_guidance_reading_notes
 javascript高级编程指导阅读笔记
